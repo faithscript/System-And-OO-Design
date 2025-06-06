@@ -19,5 +19,4 @@ Sequence diagram – object interactions over time
 
 State diagram – how an object changes state
 
-
 '''

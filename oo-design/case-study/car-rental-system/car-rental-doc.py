@@ -95,6 +95,30 @@ USE CASE DIAGRAM:
 
         Update Vehicle Log – Record events like fuel, cleaning, or damage
 
+'''
 
+'''
+CLASS DIAGRAM:
+    CarRentalSystem: Central system managing everything.
+
+    CarRentalLocation: Multiple locations with name and address.
+
+    Vehicle: Includes details like barcode, license plate, type, etc.
+
+    Account: Types include member, receptionist, and service worker.
+
+    VehicleReservation: Handles vehicle bookings.
+
+    Notification: Sends alerts to members.
+
+    VehicleLog: Records vehicle-related events.
+
+    RentalInsurance: Info on insurance options.
+
+    Equipment: Add-on items like GPS, child seat.
+
+    Service: Extra services like roadside help or additional drivers.
+
+    Bill: Tracks charges for a reservation.
 
 '''
